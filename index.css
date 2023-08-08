@@ -34,9 +34,9 @@ button {
 .container {
     background-color: black;
     max-width: 500px;
-    height: 50%;
+    height: 35%;
     margin: 100px auto;
-    border: 3px solid white;
+    border: 3px solid black;
     border-radius: 10px;
 }
 
